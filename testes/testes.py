@@ -1,3 +1,6 @@
+from testes.questao1 import isNumber
+
+
 numero1, numero2 = int(input("Escolha um número: ")), int(input('Escolha outro número:'))
 
 
@@ -20,3 +23,4 @@ print(funcaoTeste(numero1, numero2))
 n1 = float(50.5124142)
 
 print('Esse número vai sair com duas casas decimais %.2f' % n1)
+
