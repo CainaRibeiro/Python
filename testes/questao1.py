@@ -16,4 +16,3 @@ else:
     media = soma / 4;
     print('Soma dos números:', soma);
     print('média dos números:%.2f' % media);
-
