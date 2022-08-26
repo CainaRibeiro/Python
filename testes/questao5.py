@@ -18,7 +18,7 @@ prof                                        | A subcadeia mais próxima tem 1 ca
 7) retornar string de maior tamanho'''
 
 
-primeiraString, segundaString = input('Digite uma string'), input('Digite outra string:')
+primeiraString, segundaString = input('Digite uma string: '), input('Digite outra string: ')
 subcadeia = ''
 
 def retornarString(maiorString, menorString):
