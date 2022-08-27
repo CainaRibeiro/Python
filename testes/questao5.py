@@ -18,18 +18,3 @@ prof                                        | A subcadeia mais próxima tem 1 ca
 7) retornar string de maior tamanho'''
 
 
-primeiraString, segundaString = 'fundamentosdeprogramacao', 'prog'
-subcadeia = ''
-
-def retornarString(maiorString, menorString):
-    for menorString in maiorString:
-        return menorString
-
-print(retornarString(primeiraString, segundaString))
-
-if len(primeiraString) > len(segundaString):
-    print()
-else:
-    print()
-
-
